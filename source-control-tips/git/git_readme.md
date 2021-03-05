@@ -1,5 +1,7 @@
 # Git README Markdown
 
+[Writing on GitHub](https://docs.github.com/en/github/writing-on-github)
+
 Headers
 
 # This is an <h1> tag
@@ -92,9 +94,7 @@ mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
 
 Issue references within a repository
 
-#1
-mojombo#1
-mojombo/github-flavored-markdown#1
+#1 mojombo #1 mojombo/github-flavored-markdown #1
 
 
 Username @mentions
