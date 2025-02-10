@@ -25,4 +25,14 @@ git branch -M main
 git push -u origin main
 ```
 
+## Checking staged and unstaged changes
+
+```shell
+git status
+git diff
+git diff --staged
+git diff --cached
+git rm PROJECTS.md
+git mv file_from file_to
+```
 
